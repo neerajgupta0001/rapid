@@ -27,7 +27,7 @@ define('HOST_DIR', 'hosts/');
 define('CLASS_DIR', 'classes/');
 define('CONFIG_DIR', 'configs/');
 define('BUILD', '30May2011');
-define('CREDITS', '<a href="http://www.rapidleech.com/" class="rl-link"><b>RapidLeech</b></a>&nbsp;<b class="rev-dev">PlugMod (eqbal) rev. ' . $rev_num . '</b> <span class="rev-dev">' . $dev_name . '</span><br><small class="small-credits">Credits to Pramode &amp; Checkmate &amp; Kloon</small>');
+define('CREDITS', '<a href="https://bhadoo.net/" class="rl-link"><b>Bhadoo Industries</b></a> All Rights Reserved.<br><small class="small-credits">A Parveen Bhadoo Company</small>');
 
 require_once(CONFIG_DIR . 'setup.php');
 
