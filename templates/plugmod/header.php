@@ -30,7 +30,7 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" sr
 </head>
 
 <body>
-<center><img src="templates/plugmod/images/logo_pm.gif" alt="RapidLeech PlugMod" border="0" /></center>
+<center><img src="//cdn.bhadoo.net/bhadoo-net-logo-transparent.png" alt="RapidLeech PlugMod" border="0" /></center>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 728x90 -->
 <ins class="adsbygoogle"
