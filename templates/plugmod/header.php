@@ -10,14 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link title="Rapidleech Style" href="templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
 
-<title><?php
-if (!isset($nn)) $nn = "\r\n";
-if (!isset($page_title)) {
-	echo 'Rapidleech v2 rev. '.$GLOBALS['rev_num'];
-} else {
-	echo htmlspecialchars($page_title);
-}
-?></title>
+<title>RapidLeech - Bhadoo Industries</title>
 <script type="text/javascript">
 /* <![CDATA[ */
 var php_js_strings = [];
@@ -36,4 +29,13 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" sr
 </head>
 
 <body>
-<center><img src="templates/plugmod/images/logo_pm.gif" alt="RapidLeech PlugMod" border="0" /></center><br />
+<center><img src="templates/plugmod/images/logo_pm.gif" alt="RapidLeech PlugMod" border="0" /></center>
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5435553179213419"
+     data-ad-slot="2469273915"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+	</script></center><br />
