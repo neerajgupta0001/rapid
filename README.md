@@ -4,7 +4,7 @@ Click this button to...
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-Digital Oceon https://goo.gl/PnK6ZP $100 Credit Free
+Digital Oceon https://m.do.co/c/38d46910643d $100 Credit Free
 
 ==> For Support Related Rapidleech Visit - www.rapidleech.com 
 
