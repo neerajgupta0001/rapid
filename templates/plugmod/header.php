@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link title="Rapidleech Style" href="templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
 
-<title>RapidLeech - Bhadoo Industries</title>
+<title>RapidLeech - chillforum.in</title>
 <script type="text/javascript">
 /* <![CDATA[ */
 var php_js_strings = [];
@@ -28,15 +28,3 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" sr
 ?>
 
 </head>
-
-<body>
-<center><a href="/"><img border="0" alt="Bhadoo" src="//cdn.bhadoo.net/bhadoo-net-logo-transparent.png" width="193" height="35"></a></center>
-<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 728x90 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-5435553179213419"
-     data-ad-slot="2469273915"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-	</script></center><br />
