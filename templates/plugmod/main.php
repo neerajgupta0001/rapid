@@ -483,9 +483,7 @@ if (is_numeric($delete_delay) && $delete_delay > 0){
 }
 ?>
 <hr />
-<?php
-print CREDITS;
-?><br />
+<br />
 </div>
 </td>
 </tr>
